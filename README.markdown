@@ -7,7 +7,7 @@ This project implements a stock updates system using Google Cloud Platform (GCP)
 - **Pub/Sub**: Handles incoming messages with stock updates.
 - **Cloud Run**: Decodes and processes stock data.
 - **BigQuery**: Stores processed data for analysis.
-- **[4th Service Placeholder]**: Add any fourth GCP service in the future.
+- **CloudStorage**: Stores data.
 
 ## 🛠️ Setup Guide
 
