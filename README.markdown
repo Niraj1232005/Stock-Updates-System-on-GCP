@@ -71,4 +71,4 @@ cloud-run-app/
 - **Pub/Sub**
 - **Cloud Run**
 - **BigQuery**
-- **[4th Service Placeholder]**
+- **CloudStorage**
