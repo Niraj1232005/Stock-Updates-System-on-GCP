@@ -88,6 +88,5 @@ cloud-run-app/
 
 - **Pub/Sub**: For message handling.
 - **Cloud Run**: For processing stock data.
-- **BigQuery**: For data storage and analysis.
-
-**\[4th Service Placeholder\]**: For future expansion.
+- **BigQuery**: For analysis.
+- **Cloud Storage**: For data storage.
